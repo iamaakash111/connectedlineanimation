@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas{
+    background: black;
+    height: 100%;
+    width : 100%;
+}
+.container{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+}
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    display: none;
+}
